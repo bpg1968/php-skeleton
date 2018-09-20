@@ -16,7 +16,7 @@ It's hard to find a good base, a good file structure and useful information on t
 there are masses of frameworks that might be really good, but really hard to understand, hard to use and extremely
 complex. This project tries to be some kind of naked skeleton bare-bone for quick application building.
 
-##Structure
+## Structure
 
 * **application/** contains all files for your app: `models/`, `routers/`, `views/` (Twig templates), `libs/` (Internal libraries) and your `config/` (configuration).
 * **data/** contains data such as cache and uploads.
